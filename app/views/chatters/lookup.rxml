@@ -1,0 +1,4 @@
+xml.r_type @chatter ? "found" : "wait"
+if @chatter
+  xml.identity @chatter.identity
+end
