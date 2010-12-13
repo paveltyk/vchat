@@ -1,3 +1,6 @@
 h2. VChat - Video Chat Roulette
 
-This is a test app for P2P connection in flash.
+This is the clone of ChatRoulette app. P2P connection established via "Cirrus":http://labs.adobe.com/technologies/cirrus/ (previously codename Stratus) technology.
+
+Running app can be found at "http://vchat.heroku.com/":http://vchat.heroku.com/
+
